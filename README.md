@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-AI Chatbot is a Python-based Rule-Based Conversational Agent developed as part of the DecodeLabs Artificial Intelligence Internship Program. The project demonstrates the core concepts of rule-based AI by simulating human conversation through conditional logic, predefined responses, and intelligent input processing. Instead of relying on Machine Learning models or external AI services, the chatbot makes decisions using structured programming techniques, highlighting the fundamentals of artificial intelligence and control flow.
+AI Chatbot is a Python-based Rule-Based Conversational Agent. The project demonstrates the core concepts of rule-based AI by simulating human conversation through conditional logic, predefined responses, and intelligent input processing. Instead of relying on Machine Learning models or external AI services, the chatbot makes decisions using structured programming techniques, highlighting the fundamentals of artificial intelligence and control flow.
 
 ## Key Features
 
